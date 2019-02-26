@@ -1,0 +1,22 @@
+{
+  "name": "cli-test2",
+  "version": "1.0.0",
+  "description": "cli test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywwu/cli-test2.git"
+  },
+  "author": "andy wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andywwu/cli-test2/issues"
+  },
+  "homepage": "https://github.com/andywwu/cli-test2#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
